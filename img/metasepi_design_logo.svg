@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1052.3622"
+   width="1345"
    height="280"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="hoge.svg"
+   sodipodi:docname="metasepi_design_logo.svg"
    inkscape:export-filename="/home/kiwamu/hoge.png"
-   inkscape:export-xdpi="54.73"
-   inkscape:export-ydpi="54.73">
+   inkscape:export-xdpi="42.830002"
+   inkscape:export-ydpi="42.830002">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="522.84371"
+     inkscape:cx="681.32373"
      inkscape:cy="174.3107"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1276"
      inkscape:window-height="761"
@@ -58,21 +58,21 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:44.33484268px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="281.4324"
-       y="878.02466"
+       style="font-size:61.61244583px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="273.21301"
+       y="868.6507"
        id="text3216"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3218"
-         x="281.4324"
-         y="878.02466"
-         style="font-size:88.66968536px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Linux Biolinum Keyboard O;-inkscape-font-specification:Linux Biolinum Keyboard O Bold">METASEPI</tspan><tspan
+         x="273.21301"
+         y="868.6507"
+         style="font-size:123.22489166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Linux Biolinum Keyboard O;-inkscape-font-specification:Linux Biolinum Keyboard O Bold">METASEPI</tspan><tspan
          sodipodi:role="line"
-         x="281.4324"
-         y="988.86176"
+         x="273.21301"
+         y="1022.6818"
          id="tspan3220"
-         style="font-size:88.66968536px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Linux Biolinum Keyboard O;-inkscape-font-specification:Linux Biolinum Keyboard O Bold">DESIGN</tspan></text>
+         style="font-size:123.22489166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Linux Biolinum Keyboard O;-inkscape-font-specification:Linux Biolinum Keyboard O Bold">DESIGN</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -88,7 +88,7 @@
        sodipodi:cy="281.59448"
        sodipodi:rx="146.78572"
        sodipodi:ry="146.78572"
-       d="m 257.85715,281.59448 c 0,81.06752 -65.71821,146.78572 -146.78572,146.78572 -81.067519,0 -146.785724,-65.7182 -146.785724,-146.78572 0,-81.06751 65.718205,-146.78572 146.785724,-146.78572 81.06751,0 146.78572,65.71821 146.78572,146.78572 z"
+       d="m 257.85715,281.59448 a 146.78572,146.78572 0 1 1 -293.571444,0 146.78572,146.78572 0 1 1 293.571444,0 z"
        transform="matrix(0.95377125,0,0,0.95377125,34.063267,335.51776)" />
   </g>
   <g
