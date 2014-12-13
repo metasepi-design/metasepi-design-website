@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1345"
-   height="280"
+   width="918.75964"
+   height="280.00003"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="metasepi_design_logo.svg"
    inkscape:export-filename="/home/kiwamu/hoge.png"
-   inkscape:export-xdpi="42.830002"
-   inkscape:export-ydpi="42.830002">
+   inkscape:export-xdpi="62.689999"
+   inkscape:export-ydpi="62.689999">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="681.32373"
-     inkscape:cy="174.3107"
+     inkscape:zoom="0.175"
+     inkscape:cx="509.74833"
+     inkscape:cy="114.53714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,11 @@
      inkscape:window-height="761"
      inkscape:window-x="0"
      inkscape:window-y="37"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -54,32 +58,43 @@
      inkscape:label="文字"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-772.36218)"
+     transform="translate(2.4479675e-7,-772.36218)"
      style="display:inline">
-    <text
+    <flowRoot
        xml:space="preserve"
-       style="font-size:61.61244583px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="273.21301"
-       y="868.6507"
-       id="text3216"
-       sodipodi:linespacing="125%"><tspan
+       id="flowRoot3094"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,772.36218)"><flowRegion
+         id="flowRegion3096"><rect
+           id="rect3098"
+           width="61.42857"
+           height="68.571426"
+           x="355.71429"
+           y="-264.28571" /></flowRegion><flowPara
+         id="flowPara3100" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="284.112"
+       y="903.3222"
+       id="text3073"
+       sodipodi:linespacing="80.000001%"><tspan
          sodipodi:role="line"
-         id="tspan3218"
-         x="273.21301"
-         y="868.6507"
-         style="font-size:123.22489166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Linux Biolinum Keyboard O;-inkscape-font-specification:Linux Biolinum Keyboard O Bold">METASEPI</tspan><tspan
+         id="tspan3075"
+         x="284.112"
+         y="903.3222"
+         style="font-size:184px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;font-family:Digital Readout Thick;-inkscape-font-specification:Digital Readout Thick">METASEPI</tspan><tspan
          sodipodi:role="line"
-         x="273.21301"
-         y="1022.6818"
-         id="tspan3220"
-         style="font-size:123.22489166px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Linux Biolinum Keyboard O;-inkscape-font-specification:Linux Biolinum Keyboard O Bold">DESIGN</tspan></text>
+         x="284.112"
+         y="1050.5222"
+         id="tspan3081"
+         style="font-size:184px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;font-family:Digital Readout Thick;-inkscape-font-specification:Digital Readout Thick">DESIGN</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="1"
      style="display:inline"
-     transform="translate(0,-464.09448)">
+     transform="translate(2.4479675e-7,-464.09448)">
     <path
        sodipodi:type="arc"
        style="fill:#e5007e;fill-opacity:1;display:inline"
@@ -88,7 +103,7 @@
        sodipodi:cy="281.59448"
        sodipodi:rx="146.78572"
        sodipodi:ry="146.78572"
-       d="m 257.85715,281.59448 a 146.78572,146.78572 0 1 1 -293.571444,0 146.78572,146.78572 0 1 1 293.571444,0 z"
+       d="m 257.85715,281.59448 c 0,81.06752 -65.71821,146.78572 -146.78572,146.78572 -81.067519,0 -146.785724,-65.7182 -146.785724,-146.78572 0,-81.06751 65.718205,-146.78572 146.785724,-146.78572 81.06751,0 146.78572,65.71821 146.78572,146.78572 z"
        transform="matrix(0.95377125,0,0,0.95377125,34.063267,335.51776)" />
   </g>
   <g
@@ -96,7 +111,7 @@
      id="layer4"
      inkscape:label="2"
      style="display:inline"
-     transform="translate(0,-464.09448)">
+     transform="translate(2.4479675e-7,-464.09448)">
     <path
        sodipodi:type="star"
        style="fill:#fff000;fill-opacity:1"
@@ -119,7 +134,7 @@
      id="layer5"
      inkscape:label="3"
      style="display:inline"
-     transform="translate(0,-464.09448)">
+     transform="translate(2.4479675e-7,-464.09448)">
     <path
        sodipodi:type="star"
        style="fill:#0097e0;fill-opacity:1"
@@ -141,7 +156,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="4"
-     transform="translate(0,-464.09448)">
+     transform="translate(2.4479675e-7,-464.09448)">
     <path
        sodipodi:type="star"
        style="fill:#fffeff;fill-opacity:1"
