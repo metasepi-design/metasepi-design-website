@@ -3,3 +3,5 @@
 /hakyll
 *.hi
 *.o
+stack.yaml.lock
+/.stack-work

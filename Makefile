@@ -1,22 +1,21 @@
 all: build
 
-hakyll: hakyll.hs
-	ghc --make -Wall hakyll.hs -o hakyll
+build:
+	stack build
+	stack run metasepi-design build
 
-build: hakyll
-	./hakyll build
-
-server: build
-	./hakyll preview -p 9876
+server: all
+	stack run metasepi-design watch
 
 publish: build
 	cp -pr _site/* ~/doc/metasepi-design.github.io
 
-lint: hakyll.hs
-	hlint -c hakyll.hs
+lint: src/Main.hs
+	hlint -c src/Main.hs
 
 clean:
-	-./hakyll clean
+	stack run metasepi-design clean
+	stack clean
 	rm -rf hakyll
 	rm -rf *.hi *.o
 	rm -rf *~
